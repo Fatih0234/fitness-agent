@@ -1,0 +1,11 @@
+pyproject.toml
+src/exercise_db/__init__.py
+src/exercise_db/client.py
+src/exercise_db/config.py
+src/exercise_db/exceptions.py
+src/exercise_db.egg-info/PKG-INFO
+src/exercise_db.egg-info/SOURCES.txt
+src/exercise_db.egg-info/dependency_links.txt
+src/exercise_db.egg-info/requires.txt
+src/exercise_db.egg-info/top_level.txt
+tests/test_client.py
